@@ -29,6 +29,7 @@ STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM 
+```
 #include <stdio.h> 
 #include <string.h> 
 #include <ctype.h> 
@@ -109,6 +110,7 @@ printf("Decoded message : %s\n", dec);
 return 0; 
 }
 
+```
 ## OUTPUT
 <img width="525" height="291" alt="image" src="https://github.com/user-attachments/assets/5c506982-1aa5-4311-92ed-ed7b7ac783f9" />
 
